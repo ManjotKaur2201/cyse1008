@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "cyse1008-c8b6f"
-  }
+    "default": "cyse1008-f93b3",
+    "staging": "cyse1008-f93b3"
+  },
+  "targets": {},
+  "etags": {}
 }
